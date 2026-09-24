@@ -3,7 +3,7 @@
 > Free from constraints. Explore. Experiment. Build. Share.
 > No vendor lock-in, no prescribed stack, no “this is how you're supposed to do it.”
 
-## Encompassing everything from:
+Encompassing everything from:
 
 - 🤖 AI experiments
 - 🧠 agent frameworks
